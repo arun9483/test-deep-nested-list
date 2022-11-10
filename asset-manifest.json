@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-deep-nested-list/static/css/main.073c9b0a.css",
+    "main.js": "/test-deep-nested-list/static/js/main.d354e307.js",
+    "static/js/787.27cc759d.chunk.js": "/test-deep-nested-list/static/js/787.27cc759d.chunk.js",
+    "index.html": "/test-deep-nested-list/index.html",
+    "main.073c9b0a.css.map": "/test-deep-nested-list/static/css/main.073c9b0a.css.map",
+    "main.d354e307.js.map": "/test-deep-nested-list/static/js/main.d354e307.js.map",
+    "787.27cc759d.chunk.js.map": "/test-deep-nested-list/static/js/787.27cc759d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d354e307.js"
+  ]
+}
