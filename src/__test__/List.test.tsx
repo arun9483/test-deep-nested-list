@@ -57,6 +57,7 @@ describe('test nested list functionality', () => {
       })
     ).toBeInTheDocument();
 
+    // screen.logTestingPlaygroundURL(secondItem);
     const ul = within(secondItem).getByRole('list', {
       name: /list12/i,
     });
